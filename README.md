@@ -10,4 +10,6 @@ Build a weather app that will keep track of the weather in your selected town or
 How much do you know about SpongeBob Squarepants? well it’s time to build a quiz app, try to implement a high score system.
 Chose only ONE project, no need to build all 4 projects, just one is enough to succeed in this Challenge.
 
-Here I build the first one & making some changes
+NB: I did the first (a tetris clone) with slight changes.
+
+To be completed.
